@@ -1,0 +1,8 @@
+# Application Configuration
+server:
+  port: 8080
+
+# Logging Configuration
+logging:
+  level:
+    root: INFO
